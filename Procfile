@@ -1,1 +1,1 @@
-web: heroku
+web: web-go
